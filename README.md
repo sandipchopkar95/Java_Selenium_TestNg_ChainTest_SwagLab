@@ -50,7 +50,7 @@ project-root/
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/sandipchopkar95/SwaglabSeleniumTestNgWithChainTest.git
+git clone https://github.com/sandipchopkar95/Java_Selenium_TestNg_ChainTest_SwagLab.git
 cd SwaglabSeleniumTestNgWithChainTest
 ```
 
